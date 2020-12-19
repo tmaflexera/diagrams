@@ -1,1 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T11:10:08.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="6JlkEN7DLqg9tf8XfWAd" version="14.1.1" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">7Vpdk5owFP01PHYGEkB8XNfd7UPb6dRO+xwhQmYDoTGu2l/fBMI3usxWVzrFF5OTmw/uOfcmQQ14Hx+eOEqjzyzA1ABmcDDg0gDAsk1PfinkmCPufJ4DISeBNqqAFfmNNWhqdEcCvG0YCsaoIGkT9FmSYF80MMQ52zfNNow2Z01RiDvAyke0i/4kgYg0aplm1fARkzDSU3uOblgj/znkbJfo+QwAN9knb45RMZa230YoYPsaBB8MeM8ZE3kpPtxjqnxbuC3v93iitVw3x4kY0gHOLcfEnu1tLMezTf+DHuEF0Z32xYIy/1mvVhwLD71gLoh02B0lYSIhwVIDLpCuUbyR0y+2KfJJEn5XbUuvAj5lzUtQId+0L60Mi1CqpvF3a6yquTykNuAiIFzyTZiaZMt2ypuLDUvESq/MlvVIxFTZy2LGBFbPaubj5s5WFZ/FxNdlitaYLkrq7hllXDYlLMnmF5w9lzqw9IyPKCZUyfsH5gFKULEQvVjQZaJwrfQcPtQgzcwTZjEW/ChNitZCJTqKZrq6ryQJocaimhpLdSEdBmE5dCUFWdBqGKgMMCljNMpw4JiUASdljEYZcNZUhm11pQHcHmlYzjWkYXekYQAXxWnmwF87Jr9JIjDfIB+XLVy3SIAqSay5LIWijhTAFxTjApSLW1eGLe2NhOBK7j5Wz10u9e82CrdJujyAdUi3rB7Sr8K50+FcHhB3kog2J2XMsjiVXlWPfyIb6OCH7s3pq+noEtFqtYiDTpc40EOcew3i3J5gbVEmR5BncOXBfUQEXqUqbuFyL68B48mi1wky2AoyAHsya9+eew2qZlOMDT4rtZPjTWPMmzbEd4jVGRjThjif8uoZrlwworxaaGJKrK8TZ9utq4bbE2TvllgtqxtUQYiLS552XdP/NX8EaBtluDXA/YiLO/WWsYU9ErXcnFlV165Xl1icBEUPluIkR2r2slYQ5Q7n8ySJ8prLffyKxuUSQyzOnwWVC89qgWOKBHlpvje9LLE92XIits9TcACv8/HwCs/yiuma7R8q4DTDVyVV97gdqfMBpM7GQ6o9kTqAVHcAqc54SHXOksq4iFjIEkRvz+wFc3Bj43gbzc4Amu1L05x1lf5Ax5pByuStclsb+asCai83nNYhvP27YcseFJrot5eFfAWV4MpHeaMG3Utq8D86FMwGaNAbT6qZ/TOp5uabyJDjHhhFdnHnzWxhe86Vs4U3yeiSMrJGISPgXVRGslr90SY3r/7NBB/+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-19T11:46:02.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.60" etag="68J37rizksrTsCisT64N" version="14.1.1" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1406" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39150e848f15840c-11" style="edgeStyle=none;rounded=0;html=1;dashed=1;labelBackgroundColor=none;startArrow=open;startFill=0;startSize=16;endArrow=open;endFill=0;endSize=16;fontFamily=Verdana;fontSize=12;strokeWidth=2;entryX=0;entryY=0.502;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ZXxrE7h-jffbHlaxdvK5-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="255" y="240" as="sourcePoint" />
+            <mxPoint x="302" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-6" value="Match&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="39150e848f15840c-11">
+          <mxGeometry x="0.2736" relative="1" as="geometry">
+            <mxPoint x="45.01" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="39150e848f15840c-1" value="Source Computer A" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="ZXxrE7h-jffbHlaxdvK5-2" vertex="1">
+          <mxGeometry width="431.53846153846155" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-1" value="&lt;div style=&quot;box-sizing: border-box ; font-size: 14px&quot;&gt;&lt;pre&gt;&lt;font face=&quot;Lucida Console&quot;&gt;{&lt;br&gt;  &quot;machine_id&quot;: &quot;&lt;font color=&quot;#ea6b66&quot;&gt;SCCM-16786746&lt;/font&gt;&quot;,&lt;br&gt;  &quot;name&quot;: &quot;ltp-win10&quot;,&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&amp;nbsp; &quot;domain&quot;: &quot;CORP.COM&quot;,&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Lucida Console&quot;&gt;  &quot;&lt;font color=&quot;#ea6b66&quot;&gt;manufacturer&lt;/font&gt;&quot;: &quot;Dell Inc.&quot;,&lt;br&gt;  &quot;last_loggedon_user&quot;: &quot;&lt;font color=&quot;#ea6b66&quot;&gt;LatriceSweigard&lt;/font&gt;&quot;,&lt;br&gt;  &quot;inventory_agent&quot;: &quot;&lt;font color=&quot;#ea6b66&quot;&gt;SCCM&lt;/font&gt;&quot;,&lt;br&gt;  &quot;inventory_date&quot;: &quot;2020-&lt;font color=&quot;#ea6b66&quot;&gt;11-17&lt;/font&gt;T19:01:00Z&quot;&lt;br&gt;}&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZXxrE7h-jffbHlaxdvK5-2">
+          <mxGeometry x="21.15384615384615" y="29.998148148148154" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="320" width="440" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-4" value="Source Computer B" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ZXxrE7h-jffbHlaxdvK5-3">
+          <mxGeometry width="431.6981132075472" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-5" value="&lt;div style=&quot;box-sizing: border-box ; font-size: 14px&quot;&gt;&lt;pre&gt;&lt;font face=&quot;Lucida Console&quot;&gt;{&lt;br&gt;  &quot;machine_id&quot;: &quot;&lt;font color=&quot;#ea6b66&quot;&gt;Computer0011798&lt;/font&gt;&quot;,&lt;br&gt;  &quot;name&quot;: &quot;ltp-win10&quot;,&lt;br&gt;&amp;nbsp; &quot;domain&quot;: &quot;CORP.COM&quot;,&lt;br&gt;  &quot;&lt;font color=&quot;#ea6b66&quot;&gt;model_no&lt;/font&gt;&quot;: &quot;Latitude 7480&quot;,&lt;br&gt;  &quot;last_loggedon_user&quot;: &quot;&lt;font color=&quot;#ea6b66&quot;&gt;BlairWarner&lt;/font&gt;&quot;,&lt;br&gt;  &quot;inventory_agent&quot;: &quot;&lt;font color=&quot;#ea6b66&quot;&gt;ADDM&lt;/font&gt;&quot;,&lt;br&gt;  &quot;inventory_date&quot;: &quot;2020-&lt;font color=&quot;#ea6b66&quot;&gt;12-05&lt;/font&gt;T14:00:38Z&quot;&lt;br&gt;}&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZXxrE7h-jffbHlaxdvK5-3">
+          <mxGeometry x="22.222222222222225" y="29.998148148148147" width="370" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="160" width="540" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-8" value="Normalized Computer" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="ZXxrE7h-jffbHlaxdvK5-7">
+          <mxGeometry width="530.1818181818181" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-9" value="&lt;div style=&quot;box-sizing: border-box ; font-size: 14px&quot;&gt;&lt;pre&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;{&lt;br&gt;  &quot;machine_id&quot;: &quot;&lt;/span&gt;&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 14px&quot;&gt;&lt;span&gt;8f472953-cdb9-48d0-9a2d-fdf882025dc1&lt;/span&gt;&lt;/font&gt;&lt;span&gt;&quot;,&lt;br&gt;  &quot;name&quot;: &quot;ltp-win10&quot;,&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;&amp;nbsp; &quot;domain&quot;: &quot;CORP.COM&quot;,&lt;/font&gt;&lt;/div&gt;&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 14px&quot;&gt;  &quot;&lt;font color=&quot;#ea6b66&quot;&gt;manufacturer&lt;/font&gt;&quot;: &quot;Dell Inc.&quot;,&lt;br&gt;  &quot;&lt;font color=&quot;#ea6b66&quot;&gt;model_no&lt;/font&gt;&quot;: &quot;Latitude 7480&quot;,&lt;br&gt;  &quot;last_loggedon_user&quot;: &quot;&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 14px&quot;&gt;BlairWarner&lt;/font&gt;&quot;,&lt;br&gt;  &quot;inventory_agent&quot;: &quot;&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 14px&quot;&gt;ADDM&lt;/font&gt;&quot;,&lt;br&gt;  &quot;inventory_date&quot;: &quot;2020-&lt;font color=&quot;#ea6b66&quot; style=&quot;font-size: 14px&quot;&gt;12-05&lt;/font&gt;T14:00:38Z&quot;&lt;br&gt;}&lt;/font&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="ZXxrE7h-jffbHlaxdvK5-7">
+          <mxGeometry x="20.002673267326735" y="50.00444444444444" width="480" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXxrE7h-jffbHlaxdvK5-10" value="Merge properties" style="shape=singleArrow;whiteSpace=wrap;html=1;fontSize=18;arrowWidth=0.4;arrowSize=0.2235294117647059;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="190" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
